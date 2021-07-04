@@ -1,0 +1,41 @@
+{
+    "RANDOM_CHOICE":false,
+    "COUNT_ERRORS_WHEN_SCAFFOLDING":true,
+
+    "M":50,
+    "N_itt":1050,
+    "N_exp":10,
+    "N_pitt":700,
+    "batch_size":100,
+
+    "epsilon":0.000001,
+    "h":2,
+    "nu":0.7,
+    "mu":0.4,
+    "w":1.0,
+
+    "N_objs":3,
+
+    "N_anodes":100,
+    "N_rnodes":1000,
+    "N_snodes":100,
+    
+    "dcr":-2.5,
+    "des":10,
+    "dx":10,
+    "D":250,
+
+    "im_height":900,
+    "im_width":1000,
+    "margin":150,
+    "line_level":400,
+    "world_im_name":"World",
+
+    "fps":25,
+    "omega":32,
+    "radius":20,
+    "l1":100,
+    "l2":100,
+    "color":[255, 50, 50],
+    "thickness":5
+}

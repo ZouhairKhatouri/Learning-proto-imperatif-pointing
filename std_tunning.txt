@@ -1,0 +1,5 @@
+nu = 3ln(rho)/(rho-1)
+rho = (sigma2/sigma1)²
+nu = (h/sigma2)²
+avec: sigma2 > sigma1
+on trouve alors: 2h=3sigma2=4sigma1
